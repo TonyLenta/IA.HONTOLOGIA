@@ -1,0 +1,18 @@
+Entidades a definir
+
+Enfermedad
+Sintoma
+Paciente
+
+
+Cada entidad tiene anotaciones, data types
+
+Luego de  cada entidad osea clase 
+creamos los dataproperty o caracteristicas luego  agregamos dominains en paciente 
+lueoh el rango osea tipo de dato
+
+Luego creamos las relaciones:
+enfermedad tiene sintomas
+enfermedad se trata d tratamiento
+paciente diagnostico enfermedad
+Luego instanciar en individual by class  luego propiete  nombre edad , peso
